@@ -1,4 +1,4 @@
-# Type.xml to Expansion Market converter
+# Type.xml to Expansion Market converter using Python
 
 Quick made/edited this tool.
 
