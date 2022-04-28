@@ -17,7 +17,6 @@
         <value name="Tier4"/>
         <value name="Tier3"/>
         <value name="Tier2"/>
-        <value name="Tier1"/>
     </type>
     <type name="IMP_Bottle_BottlePouch_Desert">
         <nominal>1</nominal>
@@ -36,6 +35,5 @@
         <value name="Tier4"/>
         <value name="Tier3"/>
         <value name="Tier2"/>
-        <value name="Tier1"/>
     </type>
 </types>
