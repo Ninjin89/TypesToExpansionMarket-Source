@@ -10,7 +10,7 @@ root = tree.getroot()
 end ="""}\n]\n}"""	
 
 head = """{
-    "m_Version": 9,
+    "m_Version": 12,
     "DisplayName": "",
     "Icon": "Trader",
     "Color": "EB3736FF",
