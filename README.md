@@ -3,10 +3,9 @@
 Quick made/edited this tool.
 
 If something is not working let me know maybe i can update the tool for you.
-## :rocket: Contact
-<a href="https://discord.gg/mEPT9KNSxs"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
 
 
+## *New Converter with UI*
 > **Note**
 > I made a new Version of this with a UI, you can find it here: https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI.
 
@@ -45,5 +44,7 @@ Also keep in mind the converter exports each item seperated, which means if you 
 ## Example of the Json output
 ![image](https://user-images.githubusercontent.com/25750563/160250390-6f95d0b2-e081-4391-8f75-a9945d3bf9c0.png)
 
+## :rocket: Contact
+<a href="https://discord.gg/mEPT9KNSxs"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
 
 
