@@ -6,6 +6,12 @@ If something is not working let me know maybe i can update the tool for you.
 ## :rocket: Contact
 <a href="https://discord.gg/mEPT9KNSxs"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
 
+
+> **Note**
+> I made a new Version of this with a UI, you can find it here: https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI.
+
+
+
 **Version 1.0.1**
 
 This tool will export items out of type.xml by dragging the types.xml, on the .exe or double click the .exe while the type.xml is in same folder and is also named types.xml.
