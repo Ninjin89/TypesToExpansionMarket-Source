@@ -3,7 +3,8 @@
 Quick made/edited this tool.
 
 If something is not working let me know maybe i can update the tool for you.
-https://dsc.gg/cyberneticmonkeys
+## :rocket: Contact
+<a href="https://discord.gg/mEPT9KNSxs"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
 
 **Version 1.0.1**
 
